@@ -1,0 +1,17 @@
+# Ignore compiled class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore IDE settings (for IntelliJ, Eclipse, VS Code)
+.idea/
+.vscode/
+*.iml
+*.project
+*.classpath
+*.settings/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
